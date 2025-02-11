@@ -6,11 +6,11 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "";
-const char* password = "";
+const char* ssid = "...";
+const char* password = "J0eVcCCPqAfg3g-SWP2o";
 
-const char* openWeatherMapApiKey = "";
-const char* city = "";
+const char* openWeatherMapApiKey = "c1e56d1fb0c8b90efb852a3a0224b7f1";
+const char* city = "Geneva";
 
 int page = 1;
 
